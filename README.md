@@ -1,4 +1,5 @@
-* Contact
+*Contact
+
 [HackerRank](https://www.hackerrank.com/zehraseren?hr_r=1)
 
 [Patika.dev](https://app.patika.dev/fzseren)
