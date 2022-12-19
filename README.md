@@ -1,4 +1,4 @@
-*Contact
+# Contact
 
 [HackerRank](https://www.hackerrank.com/zehraseren?hr_r=1)
 
