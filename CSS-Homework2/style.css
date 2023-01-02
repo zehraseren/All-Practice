@@ -1,0 +1,49 @@
+header {
+    text-align: center;
+}
+.searchResults {
+    text-align: center;
+    background-color: #EEEEEE;
+    margin: 0 50px 3px;
+}
+.title {
+    margin: 0;
+}
+aside {
+    float: left;
+    margin: 0 50px;
+}
+li {
+    list-style-type: none;
+}
+.kutu1 {
+    width: 37%;
+    height: 73px;
+    background-color: #7EE5DA;
+    text-align: center;
+    margin: 0 0.2% 0 50px;
+    padding-top: 16px;  
+}
+.kutu2 {
+    width: 17%;
+    background-color: #70CCC2;
+    margin:0 0.2% 0 0;
+    text-align: center;
+    height: 82px;
+    padding-top: 7px;
+}
+.kutu3{
+    width: 39.95%;
+    background-color: #62B3AA;
+    margin: 0;
+    text-align: center;
+    height: 82px;
+    padding: 4px;
+}
+.clear {
+    clear: both;
+}
+footer {
+    text-align: center;
+    margin-top: 25px;
+}
