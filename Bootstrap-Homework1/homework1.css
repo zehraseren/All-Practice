@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #E9ECEF;
+}
+
+.container {
+    margin-top: 15px;
+}
+
+.col-md a {
+    color: white;
+}
+
+h3, li {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+.card-img-top {
+    height: 300px;
+}
+
+h5, buton {
+    text-align: center;
+}
+
+.iletisim {
+    text-align: center;
+}

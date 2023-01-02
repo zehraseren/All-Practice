@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #E9ECEF;
+}
+
+
+h1, nav, .nav1, h3 {
+    text-align: center;
+}
+nav {
+    border: 1px solid ;
+    padding: 11px;
+    background-color: wheat;
+    word-spacing: 27px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: auto;
+    padding: 23px;
+}
+
+.baslik{
+    font-weight: bold;
+}
+
+a {
+    margin: 4px ;
+    text-decoration: none;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+    padding: 4px;
+}
+
+.form {
+    text-align: center;
+}
+
+.list{
+    list-style: none;
+    text-align: center;
+}
