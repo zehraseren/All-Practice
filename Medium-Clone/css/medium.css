@@ -1,0 +1,77 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.logo {
+    width:161.47px;
+    height: 25px;
+}
+
+.gs {
+    font-size: 14px;
+    color: rgba(25, 25, 25, 1);
+    width: 100px;
+    padding: 7px 20px 9px;
+    border-width: 1px;
+    border-radius: 99em;
+}
+
+.gs:hover {
+    background-color: rgba(25, 25, 25, 1);
+}
+
+.bbd {
+    background-color: #FFC017 ;
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.big-text {
+    font-size: 70px;
+}
+
+.sr {
+    font-size: 20px;
+    width: 213px;
+    padding: 7px 20px 9px;
+    border-style: solid;
+    border-radius: 99em;    
+}
+
+.sr:hover {
+    background-color: rgba(25, 25, 25, 1);
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.fa-star {
+    color:#FFC017
+}
+
+.btd {
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
+
+.ud {
+    text-decoration: none;
+}
+
+.bt {    
+    border-radius: 99em;
+}
+
+.nb {
+    border-style: none;
+}
+
+.tp {
+    border-bottom: 1px solid rgba(41, 41, 41, 0.3);
+}
+
+@media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ }
+@media (min-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
+@media (min-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
+@media (min-width:961px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }
